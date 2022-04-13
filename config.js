@@ -14,9 +14,9 @@ global.APIKeys = {
 	'https://zeks.me': 'Alphabott',
 }
 
-global.owner = ['62887435047326','918156874290']
-global.packname = setting.botname
-global.author = setting.ownername
+global.owner = ['6285749433476']
+global.packname = setting.HADbotz
+global.author = setting.HAD
 global.swelcome = '*Welcome @tag* \n\n📛 : _@user_\n💌 : _@bio_\n🔢 : _@number_\n👥 : @subject\n🏅: _@member Members_\n⏰ : _@time Server time_\n\n```Hope you like it and don\'t forget to read the group description```'
 global.sleave = '◪ Goodbye @tag\n◪ Leave from group:\n@subject\n\n│\n└─ ❏ Nomor: @number\nGoodBye~~'
 global.spromote = '*P R O M O T E  D E T E C T E D*\n```Nomor :``` @number\n```User :``` @tag\n```Group :``` @subject\n_Selamat jabatan kamu naik_'
